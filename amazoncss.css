@@ -129,7 +129,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(../amazon-project/amazon-pictures/hero_image1.jpg) ;
+    background: url(../amazon-project/amazon-pictures/hero_image1.jpg);
     background-size: cover;
     background-position: top;
 }
